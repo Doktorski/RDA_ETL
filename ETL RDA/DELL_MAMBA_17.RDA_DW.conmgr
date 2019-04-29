@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DELL_MAMBA_17.RDA_DW"
+  DTS:DTSID="{D4A1AD4B-70DB-4B43-8692-F3C9DA4A5D11}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DELL\MAMBA_17;User ID=sa;Initial Catalog=RDA_DW;Provider=SQLNCLI11.1;Persist Security Info=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhC5V8ZKT80KKdKfsW6MZQwAAAAACAAAAAAAQZgAAAAEAACAAAADbbW1klTNTgEYT/Os1GRKc2+PsCo8dn3rsQVDGOG49XwAAAAAOgAAAAAIAACAAAADU7O5XnfioEDR5FK5hBWYsokBR+AO4yWTVTJkWiq6uzXAAAABwpCFeLgIJ7/KkqP9smsPlgXi02wG+Yk8ZdjSJJuNIpI1XE5LkP/MDZf/jv8vOguIh/fyA2avTiVedBvj0qYWMcMFRJKvEeZjHbTr/uXO+OHB5ZU24LrgcWBAQrbCxsxBLtwsv719b5GZVLnewNrReQAAAAHh+hij8OkVw0ccwuoVmKU9FdU6B6bxWfg46luuM+kqw773xyglkKqMXDX/qA5xikThw069YOCzf59tRt7paDL0=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
